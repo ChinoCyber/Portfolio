@@ -1,6 +1,6 @@
 # Description
 
-#I am a Computer Science student with a concentration in Cybersecurity at Kennesaw State University, passionate about building tools that solve real-world security problems.
+I am a Computer Science student with a concentration in Cybersecurity at Kennesaw State University, passionate about building tools that solve real-world security problems.
  
 I enjoy developing practical applications that help users stay safe online, including projects like an AI-assisted phishing detection system designed to analyze emails and identify malicious patterns. 
  
